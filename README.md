@@ -1,4 +1,4 @@
-[CHART](/chart.md)
+[CHART](/chart.html)
 
 # Hola Mundo
 Soy Mauricio Alejandro Ramírez García, soy Ingeniero de Sistemas y Computación de la Univesidad del Quindio
