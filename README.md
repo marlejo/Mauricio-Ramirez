@@ -1,3 +1,5 @@
+[CHART](/chart.md)
+
 # Hola Mundo
 Soy Mauricio Alejandro Ramírez García, soy Ingeniero de Sistemas y Computación de la Univesidad del Quindio
 
@@ -6,7 +8,6 @@ Soy Mauricio Alejandro Ramírez García, soy Ingeniero de Sistemas y Computació
 * Me gusta programar y aprender nuevas formas de agilizar y optimizar los codigos que desarrollo
 * Me gusta toda clase de entretenimiento digital (peliculas, musica, series, anime, videojuegos)
 
-[CHART](/chart.md)
 
 ## Welcome to GitHub Pages
 
