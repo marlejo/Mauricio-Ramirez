@@ -7,7 +7,9 @@
     <!--Load the AJAX API-->
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
-
+      
+      var a=15,b=20,c=65;
+      
       // Load the Visualization API and the corechart package.
       google.charts.load('current', {'packages':['corechart']});
 
@@ -24,9 +26,9 @@
         data.addColumn('string', 'Topping');
         data.addColumn('number', 'Slices');
         data.addRows([
-          ['IE6', 15],
-          ['IE7', 20],
-          ['IE8', 65]
+          ['IE6', a],
+          ['IE7', b],
+          ['IE8', c]
         ]);
 
         // Set chart options
@@ -38,12 +40,19 @@
         var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
         chart.draw(data, options);
       }
+      
+      function changeValues() {
+        a=30;
+        b=25;
+        c=45;
+      }
     </script>
   </head>
 
   <body>
     <!--Div that will hold the pie chart-->
     <div id="chart_div"></div>
+    <input type="button" value="New Values" onclick="changeValues" />
   </body>
 </html>
 
