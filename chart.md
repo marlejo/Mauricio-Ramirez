@@ -30,7 +30,7 @@
         ]);
 
         // Set chart options
-        var options = {'title':'How Many IE web user',
+        var options = {'title':'How Many IE web users',
                        'width':400,
                        'height':300};
 
