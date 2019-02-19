@@ -45,6 +45,7 @@
         a=30;
         b=25;
         c=45;
+        chart.draw(data, options);
       }
     </script>
   </head>
