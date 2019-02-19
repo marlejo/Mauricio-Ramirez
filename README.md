@@ -1,3 +1,12 @@
+# Hola Mundo
+Soy Mauricio Alejandro Ramírez García, soy Ingeniero de Sistemas y Computación de la Univesidad del Quindio
+
+## Hobbies
+
+* Me gusta programar y aprender nuevas formas de agilizar y optimizar los codigos que desarrollo
+* Me gusta toda clase de entretenimiento digital (peliculas, musica, series, anime, videojuegos)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/marlejo/Mauricio-Ramirez/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
