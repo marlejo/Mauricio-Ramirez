@@ -45,6 +45,9 @@
         a=30;
         b=25;
         c=45;
+        
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
         chart.draw(data, options);
       }
     </script>
